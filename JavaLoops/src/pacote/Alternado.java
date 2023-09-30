@@ -1,6 +1,6 @@
 package pacote;
 
-public class two {
+public class Alternado {
 public static void main(String[] args) {
 	
 int i = 5;

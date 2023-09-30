@@ -1,6 +1,6 @@
 package pacote;
 
-public class one {
+public class Default {
 public static void main(String[] args) {
 	for (int i = 1; i <5 ; i++) {
 		int j = 0;
